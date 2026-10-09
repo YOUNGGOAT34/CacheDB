@@ -305,3 +305,6 @@ This project demonstrates:
 * Access control design — bitmap-based permission systems
 
 ---
+## Contributing
+
+Contributions, bug reports, and optimizations are welcome! Please fork the repository, create a dedicated feature branch for your changes, ensure all integration tests pass via `make test-race`, and submit a pull request with a clear description of your work.
